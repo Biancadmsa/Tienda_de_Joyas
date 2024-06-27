@@ -2,7 +2,7 @@
 
 ## INSTALAR LAS DEPENDENCIAS
 ```
-npm express nodemon
+npm express nodemon jsonwebtoken
 ```
 
 ## INICIAR EL SERVIDOR
